@@ -1,0 +1,43 @@
+@media screen 
+  and (min-device-width: 992px){
+.block{
+    float:left;
+    border:1px solid black;
+    margin:1%;
+    width:31.33%;
+    height: auto;
+    background-color: bisque;
+    box-sizing:border-box;
+    padding: 10px 10px 10px 10px;
+    position: relative;
+}
+h1{
+    text-align:center;
+    color: red;
+}
+p{
+    text-align: justify;
+    padding-top: 30px;;
+} 
+h2{
+      text-align: center; 
+      border:1px solid black;
+      width:150px;      
+      padding: 5px 10px 10px 10px;  
+      position: absolute;
+      top: -20px;
+      right: 0px;     
+}
+#subheading1{
+    background-color:rgb(211, 166, 166);
+    color: black;
+}
+#subheading2{
+    background-color:rgb(133, 116, 116);
+    color:white;
+}
+#subheading3{
+    background-color:rgb(233, 227, 141);
+    color: black;
+}
+  }
