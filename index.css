@@ -55,6 +55,7 @@ h2{
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6,.col-md-12 {
     float: left;
+    margin:1%;
   }
   .col-md-12 {
     width: 94%;
@@ -70,6 +71,6 @@ h2{
   .col-sm-12 {
     float: left;
     width:94%;
-  
+   margin:1%;
   }
 }
