@@ -8,8 +8,8 @@
     background-color: bisque;
     box-sizing:border-box;
     position: relative;
-    margin:1%;  
-  float:left;
+    margin:1%; 
+   float:left;
 }
 .row{
   width:100%;
