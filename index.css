@@ -59,11 +59,11 @@ h2{
   }
   .col-md-12 {
     width: 94%;
-  
+  margin:1%;
   }
   .col-md-6 {
     width: 46%;
-    
+    margin:1%;
   }
 }
 
